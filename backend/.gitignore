@@ -1,0 +1,22 @@
+## Ignore build results
+**/bin/
+**/obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code and Visual Studio folders
+.vscode/
+.vs/
+
+## Others
+*.db
+*.log
+
+## Configuration files (optional — only if you don't want to expose them)
+appsettings.Development.json
+appsettings.json
+.env
